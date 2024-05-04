@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Steel Indexing Plunger, For Automobile",
+    "description": "High-quality steel indexing plunger for automobiles.",
+    "company": "Medihome Pharma",
+    "address": "Surat, Gujarat",
+    "price": 10.99,
+    "image": "mobile.webp"
+  },
+  {
+    "id": 2,
+    "name": "Electric Hand Blender with Stainless Steel Blades",
+    "description": "Versatile electric hand blender with stainless steel blades.",
+    "company": "Health Supplements Inc.",
+    "address": "New York, USA",
+    "price": 15.49,
+    "image": "71IRddzorSL.webp"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Immerse yourself in music with wireless noise-cancelling headphones.",
+    "company": "Fitness First Nutrition",
+    "address": "Los Angeles, USA",
+    "price": 29.99,
+    "image": "61rgsnfRJlL._AC_UF1000,1000_QL80_.webp"
+  },
+  {
+    "id": 4,
+    "name": "Reusable Stainless Steel Drinking Straws",
+    "description": "Reduce waste with reusable stainless steel drinking straws.",
+    "company": "Green Life Wellness",
+    "address": "London, UK",
+    "price": 8.99,
+    "image": "5_671ab5a3-8cbf-43b3-bd0d-6a7b486aec70_2048x.webp"
+  },
+  {
+    "id": 5,
+    "name": "Vintage Leather Messenger Bag",
+    "description": "Make a statement with vintage leather messenger bag.",
+    "company": "Nature's Bounty",
+    "address": "Sydney, Australia",
+    "price": 12.99,
+    "image": "67-1-500x500.webp"
+  },
+  {
+    "id": 6,
+    "name": "Handcrafted Wooden Serving Tray",
+    "description": "Serve guests in style with handcrafted wooden serving tray.",
+    "company": "Omega Nutraceuticals",
+    "address": "Toronto, Canada",
+    "price": 18.99,
+    "image": "el-005-218_a-1000x1000.webp"
+  },
+  {
+    "id": 7,
+    "name": "Professional Chef's Knife Set",
+    "description": "Upgrade kitchen with professional chef's knife set.",
+    "company": "Sweet Dreams Pharmaceuticals",
+    "address": "Paris, France",
+    "price": 24.99,
+    "image": "819yq5ehtlL._AC_UF894,1000_QL80_.webp"
+  },
+  {
+    "id": 8,
+    "name": "Portable Outdoor Camping Hammock",
+    "description": "Relax and unwind in nature with portable camping hammock.",
+    "company": "Green Fit Life",
+    "address": "Tokyo, Japan",
+    "price": 19.99,
+    "image": "iaspw_512.webp"
+  },
+  {
+    "id": 9,
+    "name": "Professional Makeup Brush Set",
+    "description": "Achieve flawless makeup looks with professional makeup brush set.",
+    "company": "Healthy Joints Inc.",
+    "address": "Berlin, Germany",
+    "price": 22.99,
+    "image": "2_8be6cf52-1cdd-4c15-8a61-dcb244b99532.webp"
+  },
+  {
+    "id": 10,
+    "name": "Adjustable Laptop Stand with Cooling Fan",
+    "description": "Stay productive and comfortable with adjustable laptop stand.",
+    "company": "Bone Health Solutions",
+    "address": "Madrid, Spain",
+    "price": 13.99,
+    "image": "6188akS2z3L._AC_UF1000,1000_QL80_.webp"
+  }
+]
